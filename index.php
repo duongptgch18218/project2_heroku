@@ -2,11 +2,10 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>Profile</h1>
+<h2>Name: Phan Tung Duong</h2>
 
-<?php
-echo "Hello World!";
-?>
+<h2>Picture: <a href="https://p.bigstockphoto.com/GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg" width = "500px" height="700px"></a></h2>
 
 </body>
 </html>
